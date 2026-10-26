@@ -1,0 +1,6 @@
+{
+  "name": "Vichar Lahari News 24 - विचार लहरी न्यूज २४",
+  "description": "महाराष्ट्र, विदर्भ, वाशिम आणि अकोल्यासह देश-विदेशातील ताज्या व विश्वासार्ह बातम्यांचे डिजिटल माध्यम आणि ई-वृत्तपत्र.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
